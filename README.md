@@ -1,4 +1,4 @@
-# simonsaystest
+# playerSequencesaystest
 
 ## Project setup
 ```
